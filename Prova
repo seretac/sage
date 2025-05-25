@@ -1,0 +1,4 @@
+E = EllipticCurve([-4, 0]); E
+G = E.torsion_subgroup(); G
+G.order()
+G.ngens()
